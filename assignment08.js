@@ -89,6 +89,8 @@ function draw() {
   strokeWeight(7)
   line(370, 140, 290, 220)
 
+  
+
 
 fill (246, 252, 245)
 textSize (50)
