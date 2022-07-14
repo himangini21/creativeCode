@@ -64,7 +64,7 @@ function startGame () {
   text ("click on darth vader to freeze him",windowWidth/2, 150)
   fill (0)
   textFont (titleFont)
-  stroke(255, 204, 0)
+  fill(255, 204, 0)
   strokeWeight(4)
   textSize (80)
   text ("START",windowWidth/2, 100)
