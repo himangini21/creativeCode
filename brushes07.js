@@ -50,7 +50,6 @@ function squareBrush (){
   }
 }
 
-// three equal signs mean EXACTLY
 
 function keyTyped () {
   if (key === 'q') {
